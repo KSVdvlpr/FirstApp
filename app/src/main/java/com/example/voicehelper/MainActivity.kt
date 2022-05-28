@@ -86,7 +86,6 @@ class MainActivity : AppCompatActivity() {
             }
         }
 
-        //pidoras Kov
 
         val voiceInputButton: FloatingActionButton = findViewById(R.id.voice_input_button)
         voiceInputButton.setOnClickListener {
